@@ -7,7 +7,7 @@ More details about the objective, my analysis & findings, etc... everything has 
 1. all_states_aawas_plus.csv
 2. state_level.csv
 
-### Please ignore bihar_state_pmayg.csv file for this project
+Please ignore bihar_state_pmayg.csv file for this project
 
 ## Code file
 Code file can be found in the file named 3. PMAYG_Merged.ipynb
