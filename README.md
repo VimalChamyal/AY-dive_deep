@@ -6,7 +6,6 @@ More details about the objective, my analysis & findings, etc... everything has 
 ## Data extracted from the PMAYG website (that I've used for my analysis is as follows):
 1. all_states_aawas_plus.csv
 2. state_level.csv
-
 Please ignore bihar_state_pmayg.csv file for this project
 
 ## Code file
