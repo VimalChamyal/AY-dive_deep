@@ -1,7 +1,7 @@
 ## PMAY-G | Analysis of Publically Available (major) Datasets
 In this project I am trying to deep dive into the publically available datasets related to the PMAY-G scheme of GOI
 
-More details about the objective, my analysis & findings, etc... everything has been presented by me in the report that I've added in this repository.
+More details about the objective, my analysis & findings, etc... everything has been presented by me in the report.
 
 ## Data extracted from the PMAYG website (that I've used for my analysis is as follows):
 1. all_states_aawas_plus.csv
