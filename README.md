@@ -1,5 +1,5 @@
-## PMAY-G | Analysis of Publically Available (major) Datasets
-In this project I am trying to deep dive into the publically available datasets related to the PMAY-G scheme of GOI
+## PMAY-G | Analysis of Publicly Available Datasets
+In this project I am trying to deep dive into the publically available (major) datasets related to the PMAY-G scheme of GOI
 
 More details about the objective, my analysis & findings, etc... everything has been presented by me in the report.
 
